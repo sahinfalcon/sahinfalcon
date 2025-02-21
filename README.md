@@ -1,7 +1,2 @@
-hi im Taylan.
-
-getting better at programming by finding challenging problems to solve in open source projects 🙂
-
-currently working on OptimalHerbRun: a Java runelite plugin for old school runescape that optimises your Herb run by tracking herb growth, profit calculations and route setting/path finding
-
-in the background: i am learning typescript, go and rust and intend to open source some projects that i've been working on in stealth.
+Hi there 👋 I'm Taylan
+Software Engineer with a focus on DevOps and distributed systems. Currently studying Computer Science at Swansea University and interning at Siemens Digital Industries Software for a year where I work on optimizing build processes and modernizing legacy systems.
